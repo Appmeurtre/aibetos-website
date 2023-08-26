@@ -1,0 +1,5 @@
+items:
+  - title: Google Adsense (functional)
+    description: To support and run this website I unfortunately need ads.
+    is_functional: true
+    script_file: adsbygoogle.js
