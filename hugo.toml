@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://aibetos.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -42,6 +42,7 @@ paginate = 5
   # do not include @
   creator = ""
   site = ""
+
 
 [languages]
   [languages.en]
